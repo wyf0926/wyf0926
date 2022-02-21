@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
 <h3 align="center">A passionate software developer from Nanjing, China</h3>
-<h2 align="center"><a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Shield_of_the_University_of_Pennsylvania.svg" width="20" height="20"/> </a>Penn MCIT class of 2022</h2>
-<h2 align="center"><a target="_blank" rel="noreferrer"> <img src="https://github.com/wyf0926/icons/blob/main/fliggy.svg" width="20" height="20"/> </a>Ex Java SDE intern at Fliggy</h2>
+<h5 align="center"><a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Shield_of_the_University_of_Pennsylvania.svg" width="20" height="20"/> </a>Penn MCIT class of 2022 | <a target="_blank" rel="noreferrer"> <img src="https://github.com/wyf0926/icons/blob/main/fliggy.svg" width="20" height="20"/> </a>Ex Java SDE intern at Fliggy</h5>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyf0926&label=Profile%20views&color=0e75b6&style=flat" alt="wyf0926" /> </p>
 
