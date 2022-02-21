@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
 <h3 align="center">A passionate software developer from Nanjing, China</h3>
 
-![Alt text](./fliggy.svg)
-<img src="./fliggy.svg">
+![Alt text](https://github.com/wyf0926/icons/blob/main/fliggy.svg)
+<img src="https://github.com/wyf0926/icons/blob/main/fliggy.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyf0926&label=Profile%20views&color=0e75b6&style=flat" alt="wyf0926" /> </p>
 
