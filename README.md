@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
 <h3 align="center">A passionate software developer from Nanjing, China</h3>
-
-![Alt text](https://github.com/wyf0926/icons/blob/main/fliggy.svg)
-<img src="https://github.com/wyf0926/icons/blob/main/fliggy.svg">
+<h3 align="center">Penn MCIT class of 2022<a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Shield_of_the_University_of_Pennsylvania.svg" width="30" height="30"/> </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyf0926&label=Profile%20views&color=0e75b6&style=flat" alt="wyf0926" /> </p>
 
