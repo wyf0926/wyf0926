@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, ExpressJS**
 
-- 💬 Ask me about **Java, SQL, Python**
+- 💬 Ask me about **Java, Python, Spring, MySQL, Redis**
 
 - 📫 How to reach me **wyf0926@outlook.com**
 
