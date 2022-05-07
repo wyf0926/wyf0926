@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my personal blog based on Django](https://github.com/wyf0926/personalblog_django)
 
-- 🌱 I’m currently learning **Django, ExpressJS** 
+- 🌱 I’m currently learning **Django, ExpressJS**
 
 - 💬 Ask me about **Java, Python, Spring, MySQL, Redis**
 
