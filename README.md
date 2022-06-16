@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer from Nanjing, China</h3>
 <h5 align="center"><a target="_blank" rel="noreferrer" href="https://www.upenn.edu"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Shield_of_the_University_of_Pennsylvania.svg" width="20" height="20"/> </a>Penn MCIT class of 2022 | <a target="_blank" rel="noreferrer" href="https://www.fliggy.com"> <img src="https://github.com/wyf0926/icons/blob/main/fliggy.svg" width="20" height="20"/> </a>Ex Java SDE intern at Fliggy</h5>
 
-- 🔭 I’m currently working on [my personal blog based on Django](https://github.com/wyf0926/personalblog_django)
+- 🔭 I’m currently working on my intern project.
 
-- 🌱 I’m currently learning **Django, ExpressJS**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Java, Python, Spring, MySQL, Redis**
 
