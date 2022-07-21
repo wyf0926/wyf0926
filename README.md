@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
 <h3 align="center">A passionate software developer from Nanjing, China</h3>
-<h5 align="center"><a target="_blank" rel="noreferrer" href="https://www.upenn.edu"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Shield_of_the_University_of_Pennsylvania.svg" width="20" height="20"/> </a>Penn MCIT class of 2022 | <a target="_blank" rel="noreferrer" href="https://www.fliggy.com"> <img src="https://github.com/wyf0926/icons/blob/main/fliggy.svg" width="20" height="20"/> </a>Ex Java SDE intern at Fliggy</h5>
+<h5 align="center"><a target="_blank" rel="noreferrer" href="https://www.upenn.edu"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Shield_of_the_University_of_Pennsylvania.svg" width="20" height="20"/> </a>Penn MCIT class of 2022 | <a target="_blank" rel="noreferrer" href="https://www.fliggy.com"> <img src="https://github.com/wyf0926/icons/blob/main/fliggy.svg" width="20" height="20"/> </a>Ex Java SDE intern at Fliggy</h5>| <a target="_blank" rel="noreferrer" href="https://www.roche.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Roche_Logo.svg" width="20" height="20"/> </a>Bioinformatics Intern at Roche</h5>
 
 - 🔭 I’m currently working on my intern project.
 
